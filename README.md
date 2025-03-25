@@ -38,6 +38,12 @@ Erstelle danach eine `.env`-Datei im Root-Verzeichnis des Projekts und füge dei
 REACT_APP_API_KEY=DeinAPISchlüssel
 ```
 
+## Demo
+
+https://github.com/user-attachments/assets/6da380c3-bbc2-4d5b-b73c-0b9cd8bcd98f
+
+
+
 ## Verwendung
 
 1. Gib den Firmennamen im Suchfeld ein
